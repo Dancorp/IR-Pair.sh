@@ -1,0 +1,5 @@
+name = IR Remote Pairing
+mode = console
+favorite = no
+confirm = yes
+args =
