@@ -1,4 +1,4 @@
-name = IR Remote Pairing
+name = GPIO IR Remote Pairing
 mode = console
 favorite = no
 confirm = yes
